@@ -10,4 +10,4 @@ nicegui
 scipy
 nbformat
 openpyxl
-#
+# pip install -r "Data Analysis\requirements.txt" 
